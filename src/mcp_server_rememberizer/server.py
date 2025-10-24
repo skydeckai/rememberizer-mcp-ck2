@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 REMEMBERIZER_BASE_URL = "https://api.rememberizer.ai/api/v1/"
 REMEMBERIZER_CK_ID = "9"
 
-TOOL_CONTEXT_SUFFIX = "\n**Data context**: dummy ck2"
+TOOL_CONTEXT_SUFFIX = "\n**Data context**: changed  ck2"
 
 client = APIClient(base_url=REMEMBERIZER_BASE_URL, ck_id=REMEMBERIZER_CK_ID)
 
