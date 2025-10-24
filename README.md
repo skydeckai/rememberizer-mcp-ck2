@@ -1,6 +1,6 @@
 # Rememberizer MCP Server for Common Knowledge
 <!-- CK_DESCRIPTION_START -->
-dummy ck2
+changed  ck2
 <!-- CK_DESCRIPTION_END -->
 
 Please note that `rememberizer-mcp-ck2` is currently in development and the functionality may be subject to change.
